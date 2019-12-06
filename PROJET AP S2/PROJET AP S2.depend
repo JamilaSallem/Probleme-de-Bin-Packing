@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1525047102 source:c:\users\jamila\desktop\projet ap s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1524397904 source:c:\users\jamila\desktop\projet ap s2\lst2ptr.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+
+1525044545 c:\users\jamila\desktop\projet ap s2\eltprim.h
+	"ELTSDD.h"
+
+1523263541 c:\users\jamila\desktop\projet ap s2\eltsdd.h
+	"ELTBIN.h"
+
+1524755966 c:\users\jamila\desktop\projet ap s2\eltbin.h
+
+1524397205 c:\users\jamila\desktop\projet ap s2\lstprim.h
+	"LSTSDD.h"
+	"ELTPRIM.h"
+
+1524585627 c:\users\jamila\desktop\projet ap s2\lstsdd.h
+	"LSTPTR.h"
+
+1524584853 c:\users\jamila\desktop\projet ap s2\lst2ptr.h
+	"ELTPRIM.h"
+
+1525044653 c:\users\jamila\desktop\projet ap s2\var_globales.h
+
+1525046600 source:c:\users\jamila\desktop\projet ap s2\eltbin.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1525046543 source:c:\users\jamila\desktop\projet ap s2\lstptr.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1525043052 c:\users\jamila\desktop\projet ap s2\lstptr.h
+	"ELTPRIM.h"
+
+1525046600 source:d:\projet ap s2\eltbin.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1525044545 d:\projet ap s2\eltprim.h
+	"ELTSDD.h"
+
+1523263541 d:\projet ap s2\eltsdd.h
+	"ELTBIN.h"
+
+1524755966 d:\projet ap s2\eltbin.h
+
+1525044653 d:\projet ap s2\var_globales.h
+
+1525046543 source:d:\projet ap s2\lstptr.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1524397205 d:\projet ap s2\lstprim.h
+	"LSTSDD.h"
+	"ELTPRIM.h"
+
+1524585627 d:\projet ap s2\lstsdd.h
+	"LSTPTR.h"
+
+1525043052 d:\projet ap s2\lstptr.h
+	"ELTPRIM.h"
+
+1525043000 source:d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\eltbin.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1525040944 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\eltprim.h
+	"ELTSDD.h"
+
+1523259940 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\eltsdd.h
+	"ELTBIN.h"
+
+1524752366 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\eltbin.h
+
+1525041052 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\var_globales.h
+
+1525042942 source:d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\lstptr.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
+1524393604 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\lstprim.h
+	"LSTSDD.h"
+	"ELTPRIM.h"
+
+1524582026 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\lstsdd.h
+	"LSTPTR.h"
+
+1525039452 d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\lstptr.h
+	"ELTPRIM.h"
+
+1527278750 source:d:\1lfig03 (17-18)\semestre 2\asd ii\projet ap s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	"Var_Globales.h"
+
